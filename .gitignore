@@ -1,0 +1,19 @@
+# Large data files — too big for GitHub
+reviews.csv
+reviews.csv.gz
+listings.csv
+listings.csv.gz
+
+# Trained model artifacts — regenerate with: python3 preprocess.py
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
