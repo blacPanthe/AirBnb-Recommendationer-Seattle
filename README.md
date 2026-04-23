@@ -1,4 +1,4 @@
-# Airbnb Listing Recommendation System — Seattle
+# Airbnb Listing Recommendation System - Seattle
 
 NLP-powered recommendation system built on 541K guest reviews from the Seattle Airbnb dataset. Uses BERTopic for semantic topic modeling to group listings by stay experience, combined with VADER sentiment analysis. Includes a Flask web app with an interactive topic browser.
 
