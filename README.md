@@ -22,7 +22,7 @@ NLP-powered recommendation system built on 541K guest reviews from the Seattle A
 ## Setup
 
 ### 1. Download the data
-Download these two files from [Inside Airbnb — Seattle](http://insideairbnb.com/get-the-data/) and place them in the project root:
+Download these two files from [Inside Airbnb - Seattle](http://insideairbnb.com/get-the-data/) and place them in the project root:
 - `listings.csv`
 - `reviews.csv`
 
@@ -62,7 +62,7 @@ Open **http://localhost:8080** in your browser.
 
 ## Tech Stack
 
-- **BERTopic** — topic modeling (UMAP + HDBSCAN + sentence-transformers)
+- **BERTopic** - topic modeling (UMAP + HDBSCAN + sentence-transformers)
 - **NLTK / VADER** — text preprocessing and sentiment analysis
 - **scikit-learn** — cosine similarity, TF-IDF
 - **Flask** — web server
